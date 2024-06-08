@@ -19,7 +19,7 @@ This is a template repository for a Spring Boot application using Gradle and Kot
     ./gradlew bootRun
     ```
 
-3. Access the application at `http://localhost:8080/hello`.
+3. Access the application at `http://localhost:8085/hello`.
 
 ## Project Structure
 
